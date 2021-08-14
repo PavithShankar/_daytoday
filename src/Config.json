@@ -1,0 +1,8 @@
+{
+    "BaseUrl": "http://127.0.0.1:8000/",
+    "Contact_Api": "Contact/contact/",
+    "Register_Api": "auth/register/",
+    "Login_Api": "auth/login/",
+    "Project_Add_Api": "Project/project/",
+    "Logout_Api": "auth/logout/"
+}
